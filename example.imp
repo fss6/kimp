@@ -1,2 +1,4 @@
 var x = 0;
-if (true && false || false ) { x = 1 + 2 * 2 / 2 } else { Skip ; x = 2 }
+if(true) {x = 1} else {Skip}
+if(true) {x = 2} else {Skip}
+if(true) {x = 3} else {Skip}
